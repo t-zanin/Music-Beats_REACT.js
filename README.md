@@ -2,49 +2,49 @@
 
 ![Music Beats Layout](src/assets/images/website.png)
 
-Este projeto é um aplicativo de música em desenvolvimento utilizando React e a API do Deezer para fornecer funcionalidades relacionadas à música.
+This project is a music app under development using React and the Deezer API to provide music-related functionalities.
 
-## Tecnologia
+## Technology
 
-Aqui estão as tecnologias usadas neste projeto:
+Here are the technologies used in this project:
 
 - React
 - JavaScript
 - HTML
 - CSS
 
-## Funcionalidades
+## Features
 
-As principais funcionalidades do aplicativo são:
+The main features of the application are:
 
-- Reproduzir músicas do Deezer.
-- Buscar músicas e artistas.
-- Controles de reprodução: reproduzir, pausar, avançar, retroceder.
-- Visualizar informações sobre a música em reprodução.
+- Play music from Deezer.
+- Search for songs and artists.
+- Playback controls: play, pause, forward, backward.
+- View information about the currently playing song.
 
-## Como Usar
+## How to Use
 
-1. Clone o repositório para a sua máquina local.
-2. Certifique-se de ter o Node.js e o npm instalados.
-3. Navegue até o diretório do projeto e execute `npm install` para instalar as dependências.
-4. Execute `npm start` para iniciar o servidor de desenvolvimento.
-5. Abra o seu navegador e acesse a aplicação em http://localhost:3000.
-6. Interaja com a aplicação para reproduzir músicas e explorar funcionalidades.
+1. Clone the repository to your local machine.
+2. Make sure you have Node.js and npm installed.
+3. Navigate to the project directory and run `npm install` to install dependencies.
+4. Run `npm start` to start the development server.
+5. Open your browser and access the application at http://localhost:3000.
+6. Interact with the application to play music and explore features.
 
-## Contribuição
+## Contribution
 
-Sinta-se à vontade para contribuir com melhorias ou correções de bugs. Basta abrir uma issue ou enviar um pull request.
+Feel free to contribute with improvements or bug fixes. Just open an issue or send a pull request.
 
-## Autor
+## Author
 
 Thiago Zanin
 
-## Agradecimentos
+## Acknowledgements
 
-Obrigado por visitar meu projeto e pelo interesse em contribuir para o seu desenvolvimento!
+Thank you for visiting my project and for your interest in contributing to its development!
 
 ---
 
-*Este aplicativo está em desenvolvimento e qualquer ajuda é bem-vinda. Se você estiver disposto a contribuir, sinta-se à vontade para entrar em contato.*
+*This application is under development and any help is welcome. If you're willing to contribute, feel free to reach out.*
 
 
