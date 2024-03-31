@@ -1,0 +1,14 @@
+header {
+    background-color: #333;
+    color: #ffffff;
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  .music-player {
+    background-color: #f9f2f2;
+    padding: 1rem;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(255, 255, 255, 0.1);
+  }
+  
